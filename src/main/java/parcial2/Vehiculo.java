@@ -11,12 +11,10 @@ public class Vehiculo {
         this.año = año;
     }
 
-    // Método para imprimir la información del vehículo
     public String imprimirInformacion() {
         return marca + " " + modelo + " " + año;
     }
 
-    // Métodos get y set
     public String getMarca() {
         return marca;
     }

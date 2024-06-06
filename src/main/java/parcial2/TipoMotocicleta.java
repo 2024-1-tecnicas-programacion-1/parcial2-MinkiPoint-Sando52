@@ -2,7 +2,8 @@ package parcial2;
 
 public enum TipoMotocicleta {
     DEPORTIVA,
-    CRUCERO,
+    CRUISER,
     ENDURO,
-    SCOOTER;
+    TOURING,
+    SCOOTER
 }
